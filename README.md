@@ -14,7 +14,7 @@ Prerequisites:
 
 Process:
 
-I found the mean average temperature in my city and also the mean average temprature of World over the last 200 years.
+I found the moving average temperature in my city and also the moving average temprature of World over the last 200 years.
 Compared both the temperature using line graph. Visual insights were noted down and presented in a pdf format.
 
 
